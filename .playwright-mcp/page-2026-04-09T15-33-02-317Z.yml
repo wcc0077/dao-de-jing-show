@@ -1,0 +1,94 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "道德经" [level=1] [ref=e5]
+        - navigation [ref=e6]:
+          - button [ref=e7]
+          - button "章节" [ref=e8]
+          - button "词云" [ref=e9]
+          - button "统计" [ref=e10]
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: 老子 · 春秋
+          - heading "道德经" [level=1] [ref=e15]
+          - paragraph [ref=e16]: 五千言 · 八十一章
+          - paragraph [ref=e17]: 万经之王，东方智慧的源头活水
+        - generic [ref=e18]: 道法自然 无为而治 上善若水 柔弱胜刚强
+        - generic [ref=e19]:
+          - button "开始阅读" [ref=e20]
+          - button "探索词云" [ref=e21]
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: "\"道可道，非常道\""
+          - paragraph [ref=e24]: 向下滑动探索智慧
+      - generic [ref=e25]:
+        - heading "经典数据" [level=2] [ref=e26]
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - paragraph [ref=e29]: "81"
+            - paragraph [ref=e30]: 章
+          - generic [ref=e31]:
+            - paragraph [ref=e32]: 5,000
+            - paragraph [ref=e33]: 余字
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: 2,500
+            - paragraph [ref=e36]: 年历史
+      - generic [ref=e37]:
+        - heading "核心主题" [level=2] [ref=e38]
+        - generic [ref=e39]:
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - heading "道法自然" [level=3] [ref=e43]
+              - paragraph [ref=e44]: 顺应自然规律
+            - text: "12"
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - heading "无为而治" [level=3] [ref=e48]
+              - paragraph [ref=e49]: 不妄为而治理
+            - text: "10"
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - heading "柔弱胜刚强" [level=3] [ref=e53]
+              - paragraph [ref=e54]: 柔弱的力量
+            - text: "8"
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - heading "虚实相生" [level=3] [ref=e58]
+              - paragraph [ref=e59]: 有无相互转化
+            - text: "9"
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - heading "知足常乐" [level=3] [ref=e63]
+              - paragraph [ref=e64]: 知道满足常快乐
+            - text: "7"
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - heading "上善若水" [level=3] [ref=e68]
+              - paragraph [ref=e69]: 最高善像水一样
+            - text: "5"
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - heading "返璞归真" [level=3] [ref=e73]
+              - paragraph [ref=e74]: 回归本真状态
+            - text: "6"
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - heading "致虚守静" [level=3] [ref=e78]
+              - paragraph [ref=e79]: 追求虚静境界
+            - text: "4"
+    - button "×" [ref=e83]
+  - navigation [ref=e84]:
+    - generic [ref=e85]:
+      - button "首页" [ref=e86]:
+        - img [ref=e87]
+        - text: 首页
+      - button "章节" [ref=e89]:
+        - img [ref=e90]
+        - text: 章节
+      - button "词云" [ref=e92]:
+        - img [ref=e93]
+        - text: 词云
+      - button "统计" [ref=e95]:
+        - img [ref=e96]
+        - text: 统计

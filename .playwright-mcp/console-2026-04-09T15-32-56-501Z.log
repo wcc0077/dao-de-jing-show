@@ -1,0 +1,12 @@
+[    3706ms] [LOG] 🎋 道德经可视化应用已启动 @ http://localhost:3001/src/main.js:12
+[    5782ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/favicon.ico:0
+[  163434ms] ReferenceError: scene is not defined
+    at initWordCloud (http://localhost:3001/src/js/app.js:212:9)
+[  164804ms] ReferenceError: scene is not defined
+    at initWordCloud (http://localhost:3001/src/js/app.js:212:9)
+[  167194ms] ReferenceError: showChapterDetail is not defined
+    at HTMLDivElement.onclick (http://localhost:3001/:491:2)
+[  214292ms] ReferenceError: scene is not defined
+    at initWordCloud (http://localhost:3001/src/js/app.js:212:9)
+[  222310ms] ReferenceError: scene is not defined
+    at initWordCloud (http://localhost:3001/src/js/app.js:212:9)

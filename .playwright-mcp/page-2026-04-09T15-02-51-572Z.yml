@@ -1,0 +1,127 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "道德经" [level=1] [ref=e5]
+        - navigation [ref=e6]:
+          - button [ref=e7] [cursor=pointer]
+          - button "章节" [ref=e9] [cursor=pointer]
+          - button "词云" [ref=e10] [cursor=pointer]
+          - button "统计" [ref=e11] [cursor=pointer]
+    - generic [ref=e168]:
+      - heading "数据洞察" [level=2] [ref=e169]
+      - paragraph [ref=e170]: 《道德经》大数据可视化
+      - generic [ref=e171]:
+        - heading "高频词汇 TOP 10" [level=3] [ref=e172]: 高频词汇 TOP 10
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic [ref=e177]: 道
+            - generic [ref=e178]: "76"
+          - generic [ref=e179]:
+            - generic [ref=e180]: 德
+            - generic [ref=e181]: "44"
+          - generic [ref=e182]:
+            - generic [ref=e183]: 无
+            - generic [ref=e184]: "102"
+          - generic [ref=e185]:
+            - generic [ref=e186]: 有
+            - generic [ref=e187]: "82"
+          - generic [ref=e188]:
+            - generic [ref=e189]: 天
+            - generic [ref=e190]: "94"
+          - generic [ref=e191]:
+            - generic [ref=e192]: 下
+            - generic [ref=e193]: "68"
+          - generic [ref=e194]:
+            - generic [ref=e195]: 人
+            - generic [ref=e196]: "86"
+          - generic [ref=e197]:
+            - generic [ref=e198]: 大
+            - generic [ref=e199]: "58"
+          - generic [ref=e200]:
+            - generic [ref=e201]: 之
+            - generic [ref=e202]: "244"
+          - generic [ref=e203]:
+            - generic [ref=e204]: 不
+            - generic [ref=e205]: "312"
+      - generic [ref=e206]:
+        - heading "主题分布" [level=3] [ref=e207]: 主题分布
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - generic [ref=e212]: 道法自然
+            - generic [ref=e215]: "12"
+          - generic [ref=e216]:
+            - generic [ref=e217]: 无为而治
+            - generic [ref=e220]: "10"
+          - generic [ref=e221]:
+            - generic [ref=e222]: 柔弱胜刚强
+            - generic [ref=e225]: "8"
+          - generic [ref=e226]:
+            - generic [ref=e227]: 虚实相生
+            - generic [ref=e230]: "9"
+          - generic [ref=e231]:
+            - generic [ref=e232]: 知足常乐
+            - generic [ref=e235]: "7"
+          - generic [ref=e236]:
+            - generic [ref=e237]: 上善若水
+            - generic [ref=e240]: "5"
+          - generic [ref=e241]:
+            - generic [ref=e242]: 返璞归真
+            - generic [ref=e245]: "6"
+          - generic [ref=e246]:
+            - generic [ref=e247]: 致虚守静
+            - generic [ref=e250]: "4"
+      - generic [ref=e251]:
+        - heading "章节字数分布" [level=3] [ref=e252]: 章节字数分布
+        - generic [ref=e254]:
+          - generic [ref=e255]:
+            - 'generic "第1章: 76字" [ref=e256]'
+            - 'generic "第2章: 106字" [ref=e257]'
+            - 'generic "第3章: 82字" [ref=e258]'
+            - 'generic "第4章: 38字" [ref=e259]'
+            - 'generic "第5章: 55字" [ref=e260]'
+            - 'generic "第6章: 31字" [ref=e261]'
+            - 'generic "第7章: 57字" [ref=e262]'
+            - 'generic "第8章: 63字" [ref=e263]'
+            - 'generic "第9章: 50字" [ref=e264]'
+            - 'generic "第10章: 87字" [ref=e265]'
+            - 'generic "第11章: 60字" [ref=e266]'
+            - 'generic "第12章: 58字" [ref=e267]'
+            - 'generic "第13章: 97字" [ref=e268]'
+            - 'generic "第14章: 116字" [ref=e269]'
+            - 'generic "第15章: 113字" [ref=e270]'
+            - 'generic "第16章: 86字" [ref=e271]'
+            - 'generic "第17章: 58字" [ref=e272]'
+            - 'generic "第18章: 34字" [ref=e273]'
+            - 'generic "第19章: 60字" [ref=e274]'
+            - 'generic "第20章: 155字" [ref=e275]'
+          - paragraph [ref=e276]: 章节字数分布（1-20章）
+      - generic [ref=e277]:
+        - heading "文本分析摘要" [level=3] [ref=e278]
+        - generic [ref=e279]:
+          - generic [ref=e280]:
+            - paragraph [ref=e281]: 总字数
+            - paragraph [ref=e282]: 5,368
+          - generic [ref=e283]:
+            - paragraph [ref=e284]: 不重复字
+            - paragraph [ref=e285]: 1,024
+          - generic [ref=e286]:
+            - paragraph [ref=e287]: 平均章长
+            - paragraph [ref=e288]: 66字
+          - generic [ref=e289]:
+            - paragraph [ref=e290]: 最长章节
+            - paragraph [ref=e291]: 第20章
+  - navigation [ref=e137]:
+    - generic [ref=e138]:
+      - button "首页" [ref=e139] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e142]: 首页
+      - button "章节" [ref=e143] [cursor=pointer]:
+        - img [ref=e144]
+        - generic [ref=e146]: 章节
+      - button "词云" [ref=e147] [cursor=pointer]:
+        - img [ref=e148]
+        - generic [ref=e150]: 词云
+      - button "统计" [active] [ref=e151] [cursor=pointer]:
+        - img [ref=e152]
+        - generic [ref=e154]: 统计

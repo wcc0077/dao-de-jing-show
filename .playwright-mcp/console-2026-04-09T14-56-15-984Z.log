@@ -1,0 +1,3 @@
+[     174ms] [LOG] 游戏状态: {currentChapter: 1, completedChapters: Array(0), totalProgress: 0, wisdomTreeLevel: 0, unlockedTitles: Array(0)} @ http://127.0.0.1:8080/dist/main.js:20
+[     220ms] [ERROR] A bad HTTP response code (404) was received when fetching the script. @ :0
+[     226ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8080/favicon.ico:0
